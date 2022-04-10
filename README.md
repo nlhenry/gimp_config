@@ -1,1 +1,2 @@
-# fldr_prj-folder-template
+Project Folder Template
+Project folder template includes......
